@@ -36,7 +36,50 @@ Below your will find a main `Course Guidelines` and `Course Content` listing.
 | # | Section Name | Description |
 |:--| :--  | :--  |
 |01| [HTML Git CSS](#html-git-css)| HTML Tags, Box Model, Floats, Classes, IDs, Positioning, Dev Tools | 
+|02| [CSS - Bootstrap](#css-bootstrap)| Bootstrap CDN, The Grid System, Bootstrap Components| 
 
+<hr>
+<hr>
+<hr>
+
+
+## CSS Bootstrap
+[Back to Course Content](#course-content)
+
+-----
+### :book: **[CSS Bootstrap Student Resources](course-content/02-css-bootstrap/student-resources/README.md)**
+
+
+-----
+### :dart: **[CSS Bootstrap Code Drills](course-content/02-css-bootstrap/code-drills/README.md#dart-code-drills)**
+
+
+-----
+### :pencil: **[CSS Homework](course-content/02-css-bootstrap/homework/Instructions)**
+
+- Mobile Responsive && Bootstrap Layout
+[Homework Instructions Link](course-content/02-css-bootstrap/homework/Instructions)
+  Create two different portfolios.
+    * The first will be building your portfolio layout using the Bootstrap CSS Framework.
+    * The second will be enhancing the portfolio you made last week with a mobile-responsive layout.
+
+-----
+### :computer: CSS Activities
+
+|  Activity |
+|:--	|
+|[01-Hack-Websites](course-content/02-css-bootstrap/activities/01-Hack-Websites)|
+|[02-ModifyOwnWebsites](course-content/02-css-bootstrap/activities/02-ModifyOwnWebsites)|
+|[03-MultipleCSS](course-content/02-css-bootstrap/activities/03-MultipleCSS)|
+|[04-ResetCSS](course-content/02-css-bootstrap/activities/04-ResetCSS)|
+|[05-GithubPagesPersonal](course-content/02-css-bootstrap/activities/05-GithubPagesPersonal)|
+|[06-GithubPagesProject](course-content/02-css-bootstrap/activities/06-GithubPagesProject)|
+|[07-CSSTypography](course-content/02-css-bootstrap/activities/07-CSSTypography)|
+|[08-GoogleFontDemo](course-content/02-css-bootstrap/activities/08-GoogleFontDemo)|
+|[09-Pseudoclass](course-content/02-css-bootstrap/activities/09-Pseudoclass)|
+|[10-meteorAndDinosaur](course-content/02-css-bootstrap/activities/10-meteorAndDinosaur)|
+|[11-WheresCSS](course-content/02-css-bootstrap/activities/11-WheresCSS)|
+|[12-BootstrapDemo](course-content/12-css-bootstrap/activities/18-BootstrapDemo)|
 
 <hr>
 <hr>
@@ -75,6 +118,10 @@ Below your will find a main `Course Guidelines` and `Course Content` listing.
  [08-HTML_CSS_Layout](course-content/01-html-git-css/activities/08-HTML_CSS_Layout)  	|
 | [09-RelativePaths-Activity](course-content/01-html-git-css/activities/09-RelativePaths-Activity)  |
 | [10-FloatExamples](course-content/01-html-git-css/activities/10-FloatExamples)  	|
+| [11-FloatLayout-Activity](course-content/01-html-git-css/activities/11-FloatLayout-Activity)  	|
+| [12-CSS_PositionedLayout](course-content/01-html-git-css/activities/12-CSS_PositionedLayout)  	|
+| [13-CSS_Positioned_Activity](course-content/01-html-git-css/activities/13-CSS_Positioned_Activity)  	|
+
 
 <hr>
 <hr>
